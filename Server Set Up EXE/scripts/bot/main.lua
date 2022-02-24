@@ -1,6 +1,5 @@
 local Direction = require("scripts/libs/direction")
 local create_custom_bot = require('scripts/bot/create_custom_bot')
-
 local example_area_id = "default"
 
 local bot = create_custom_bot("test", {
@@ -59,7 +58,11 @@ function bot.on_response(player_id, response)
   bot.talking_to = nil
 end
 
+
 -- server events
+function handle_player_join(player_id)
+  Net.set_mod_whitelist_for_player(player_id,'/server/assets/Whitelist.txt')
+end
 
 function tick(delta_time)
   bot._tick(delta_time)
@@ -82,3 +85,5 @@ end
 function handle_player_transfer(player_id)
   bot._handle_player_disconnect(player_id)
 end
+
+
