@@ -1,0 +1,6 @@
+[submodule "Server Set Up EXE/scripts/ezlibs-scripts"]
+	path = Server Set Up EXE/scripts/ezlibs-scripts
+	url = https://github.com/Keristero/ezlibs-scripts
+[submodule "Server Set Up EXE/assets/ezlibs-assets"]
+	path = Server Set Up EXE/assets/ezlibs-assets
+	url = https://github.com/Keristero/ezlibs-assets
