@@ -1,5 +1,0 @@
-local eztriggers = {}
-
-
-
-return eztriggers
