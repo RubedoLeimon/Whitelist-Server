@@ -175,6 +175,7 @@ Greetings wanderer!
 This platform is designated for 
 warriors who seek battle 
 of custom navis! 
+ 
 Cowards who can't handle the pressure should head west!</property>
    </properties>
    <point/>
@@ -184,7 +185,8 @@ Cowards who can't handle the pressure should head west!</property>
     <property name="Asset Name" value="prog"/>
     <property name="Dialogue Type" value="first"/>
     <property name="Direction" value="Up Left"/>
-    <property name="Text 1">I'm just a normal Prog! 
+    <property name="Text 1">I'm just a normal Prog!
+  
 This platform is meant ONLY for battles against NON-CUSTOM Navis. 
 If you use Custom Navis...
 YOU'LL FEEL MY WRATH!!! 
@@ -199,8 +201,7 @@ My name is Proggy.
 Could you ask the host to make a Froggy Comp? 
 I really like Frogs. 
 Oh I'm rambling... 
-Sorry to keep you! 
-Enjoy your netbattles, and good luck!</property>
+Sorry to keep you! Enjoy your netbattles, and good luck!</property>
    </properties>
    <point/>
   </object>
