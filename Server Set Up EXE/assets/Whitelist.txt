@@ -133,7 +133,8 @@ f6b5340e733a0ee30b0986e96db0a62f ZMusic.rick.PVP
 cd658ac6e131341b64828138e9757226 ZMusic.shuffletouhou.PVP
 882b392cfc52fd5684934142ed073acb ZMusic.sinstersundown.PVP
 
-.................................class PlayerPackageManager..................................
+
+
 53baf1e6507d60a5406b059e28576fc2 Personal.Navi.Rune
 4c3822f48b48e7dc9f91e95e70de7e58 Rune.mettaur
 543a42af8ba2d4709ead695a7d11c21e com.alrysc.player.NormalNavi5_Gensou.pvp
@@ -145,7 +146,8 @@ f563ec0d77f231551af4c69895690d97 com.knt.forte.player.fortecrosspvp.pvp
 fa9e7bdfef50998c973f0c67f409f720 supersmashbros_NormalNavi_P_made_by_Pyroja_and_Jamesking.pvp
 a2ee4255c8cee8e9335fc1c32e348a92 supersmashbros_NormalNavi_made_by_Pyroja_and_Jamesking.pvp
 
-..................................class CardPackageManager...................................
+
+
 6602eb2a4a29f312c4c8089b64628c47 Airblde.pvp
 7b14d329b00520f4d3aeba8c018d0cb7 Airhock.MarsFix.pvp
 8afd651366e52443fea85470347204cb Airhock1.pvp
