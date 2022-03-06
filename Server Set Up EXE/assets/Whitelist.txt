@@ -1,3 +1,4 @@
+..................................class BlockPackageManager..................................
 b5e2fa82b26a57750b38295800852540 Airshoes.PVP
 6ae11d42fc442428f79aa009ebb23c3c AntiFreeze.pvp
 77fde3256a90994eb5ff041f72583c86 Attack1.blue.PVP
@@ -107,6 +108,8 @@ b5750e1f62622ad7eac81410f5f3097a HP500.white1.PVP
 94a8d41a95418bb741f581b9158b8894 HP500.white2.PVP
 870539ee63391e7c7fa72f1235679b16 HP500.white3.PVP
 cb291b0971c44ef07fd546a8097b5891 Halo.PVP
+4e15f98e9040c649aae79f0329b05913 Rubedo.DarkElement
+42b7e1126da2c5300002af347aab9fdd Rubedo.HolyElement
 3b0dab067304e4ded4599361df2233e1 SetGreen.PVP
 d26d4e14ad52d9ae29d6a929fd9e59b6 SetIce.PVP
 e8fd9f71cb3beb3796b8ac3ef70a7ac7 SetLava.PVP
@@ -133,10 +136,16 @@ f6b5340e733a0ee30b0986e96db0a62f ZMusic.rick.PVP
 cd658ac6e131341b64828138e9757226 ZMusic.shuffletouhou.PVP
 882b392cfc52fd5684934142ed073acb ZMusic.sinstersundown.PVP
 
-
-
-53baf1e6507d60a5406b059e28576fc2 Personal.Navi.Rune
+.................................class PlayerPackageManager..................................
+3628a6152208d3c55cf3861587770361 CGregar.PVP
+784151fbb9d02ce4d639874de1ab28f6 Cinna_NormalNavi2_Gensou.PVP
+9b74f2729f1f02b0c0744698be9b0ab3 Fortecross.com.player.isabelle.PVP
+c56aedb09ec945bc7db5de2d50784e56 Gregar.PVP
+72bed73c67c7f8b5f9898bed4490b196 GustMan.com.discord.ShrekXL.player.PVP
+0c6b012878b726fc8e28fb886b59b05b Metabee.com.alrysc.player.PVP
+23927752cc149de254fdd7977dd5425c Personal.Navi.Rune
 4c3822f48b48e7dc9f91e95e70de7e58 Rune.mettaur
+ea4dbbddae50e4335ecbce36830cdbe9 Turboman.com.FritoLay.GimmeChips.player.PVP
 543a42af8ba2d4709ead695a7d11c21e com.alrysc.player.NormalNavi5_Gensou.pvp
 6fccfd423c3589d3e1332517ebba788d com.alrysc.player.NormalNavi6_Gensou.pvp
 29d8092e1742a7f6e780f89ea3ed93a3 com.ijuinpersonalterminalcompany.enzan.player.bluespvp
@@ -146,8 +155,7 @@ f563ec0d77f231551af4c69895690d97 com.knt.forte.player.fortecrosspvp.pvp
 fa9e7bdfef50998c973f0c67f409f720 supersmashbros_NormalNavi_P_made_by_Pyroja_and_Jamesking.pvp
 a2ee4255c8cee8e9335fc1c32e348a92 supersmashbros_NormalNavi_made_by_Pyroja_and_Jamesking.pvp
 
-
-
+..................................class CardPackageManager...................................
 6602eb2a4a29f312c4c8089b64628c47 Airblde.pvp
 7b14d329b00520f4d3aeba8c018d0cb7 Airhock.MarsFix.pvp
 8afd651366e52443fea85470347204cb Airhock1.pvp
@@ -176,15 +184,15 @@ d9b4df75f8f76c82dd2623bcbed0dcd4 AttackPlusSword.pvp
 ad096b079af894614ec7d22b0830b5c9 Ball.Ball
 004b7e3e80b03a1560718169ef5399f7 Bambblde.pvp
 324b01f3c92df43a2c89a64e00127c36 Bamboosword.pvp
-c8d0fa7d14992cb790ffccbeb8b09eec Barrier.pvp
-065c270bd040efa7fc4f942fa57b634f Barrier100.pvp
-df01c82d2f70758964ef745c436d1cbc Barrier200.pvp
+f30a68d55f2eb08a3b0d3b2bc7439886 Barrier.pvp
+d79a118778d160f83381658153727756 Barrier100.pvp
+4fc896e980418dd11f8f1c40a707577f Barrier200.pvp
 eb6854a82d2dcfa56fd4d4be7feb7a25 BassGS.pvp
 c0ddb5af9625bc25f448b7d175529c1f Bblwrap.pvp
 41e5cf9b7fb02342a00f680972d6a006 Beastman.pvp
 c00cccc718de3ec7313b9318c57fba5f BigBomb.Bigbomb
 3d6216ecde6a13adf1b8b4b8190b64cd BigbombBN2.PVP
-3892cf72eccc7cfd65e477fe144ae49b Blakbarr.PVP
+5a10355f4dd5baf9412308cf0dfbb230 Blakbarr.PVP
 459c7e29c19fbe626746eed82d915c8b Blakshoes.pvp
 921c5e4fb1c784651e1ae5b693549cfc Blower.pvp
 bd0689516ef27c951fc9ced406c779bf Boomer1.pvp
@@ -203,12 +211,14 @@ acec354d2c1565dfd5c9c0dcdfe947b4 Cannon1.pvp
 e5100fa2dea78feb861273b2dc31e80e Chrgcan1.pvp
 ec4f193ff607175ff60e24c75142d6ef Chrgcan2.pvp
 06fd49beed035d6baf416717dd3073a1 Chrgcan3.pvp
+86d5622f7f27d511e7567ed9497a37af ColForce.com.Alrysc.Dawn.card.requested.PVP
 ec6d3b0e7ec54737c091e237fe1588fc Comingroad.pvp
 fcdee2bdfa3c7bbae9a2329145ea0eef ConvyLne.pvp
 be9626506652e7aa63feb9228fe44784 CrackSeed.pvp
 6401017c613a78e6f1468368b2c9c0f1 CrackShoot.pvp
 8677d94dfe9ec82b82410647c7d9708b CrosBombBN2.CrosBomb
 f7e2532fe3cff2c28aba74bbf74595cc CrossGun.pvp
+447b5d9904529e10b6cfae6c41c4fa5c Cutter.com.Rework.X.Chip06.PVP
 25666cf31a470839040c95bee40af80b Cyclone.pvp
 b47477d48a114976099f111423a29afa Dark.Hocky.pvp
 033904c8e9c112cf2ae76c1bd0dfffb9 Dark.Invisible.com.Dawn.PVP
@@ -219,9 +229,11 @@ e28b2bde97ffc6eb72a8388f471cee77 DarkCircleGun.pvp
 270f818425dca109450d972929d2e04d DarkDagger.pvp
 c91a96e4c002133be3b1fa929f9e282e DarkRapier.pvp
 6deb0df1a84727371b7af68ac88cf692 DarkSword.pvp
-6298b3f8eb1dd7b1b638987610e0b273 Darkaura.pvp
+324332d07c89c831f6f66de205d4367c Darkaura.pvp
 6b5deceabb6ca60f1bb971cf06a6d498 DeathSword.pvp
 a4423bd4387cf59adc4430ad1da51df9 Deltarayedge.pvp
+1ff6671026deff7cf11bee8674adfb09 Dolthdr2rune.legacy.PVP
+d153f74cc4a27e2b0306b5a8f4100ade Dolthdr3.rune.legacy.PVP
 a658df04f298fdec571ce1fa6de48a73 DragonFlame1.com.alrysc.card.pvp
 4761a9b55745d2d7e98726882b150c02 DragonFlame2.com.alrysc.card.pvp
 41cc1b236bf41ab6d8562e61a7dc76c9 DragonFlame3.com.alrysc.card.pvp
@@ -238,8 +250,12 @@ e5627eb1ab3effad22684736a3b585c5 ElecPulse3.pvp
 6718b28aac3359a7861f8746ca217f89 Elecsword.pvp
 d8696bac5fb614de66de15587a1f30cb EnergBom.rune.legacy.PVP
 a8d35231d27cd55e59c2d2276775e3c4 EvilCut.pvp
-80353bfe19a0dfbc90b4cfceb2558616 Falzar.pvp
+c6e0ff56f9dc2207b36a4f122b06ce26 Falzar.com.isabelle.chip.pvp
+1f84f1641a752d3006af3c7aa3c2c915 Fencer.com.Rework.X.Chip05.PVP
 ff65d79db67670dcab97ce28a61eba79 FighterSword01.pvp
+3efc73132c253756d8bb2db509feed9f FireBurn1.com.Dawn.card.PVP
+895e2ffcdb622974488651a7a6aca989 FireBurn2.com.Dawn.card.PVP
+6183834488a9824e49e0136b619ee259 FireBurn3.com.Dawn.card.PVP
 474386d72d76841484e3f54c2fbc1456 Fireblde.pvp
 d1d1a8ca3449e12153904d2df73318fb Firesword.pvp
 3be3d4346ddc865480bd50e49ddaa523 Flameline1.pvp
@@ -249,11 +265,13 @@ d1d1a8ca3449e12153904d2df73318fb Firesword.pvp
 9889b0c05c16f1f932472016690073ae FlashmanV3.pvp
 c52a35918b818f2bf6da312fd8b4334b FlashmanV5.pvp
 86506e7cc75429d3075c0e26ca855d5f Floodwisp.pvp
+238457b82dea741c83002d9c30059181 GDelHelEX.com.isabelle.card.PVP
 912ba79d93173d4948e4474f5770bb58 GaiaBlade.pvp
 28bc437a55e50d39ed04dffd44548ce4 GaiaDream.pvp
 86b89bf7bc0559c890a87c967716a105 GaiaSword.pvp
 14ac1af8fccd53cb963306ad47ddee41 Galewisp.pvp
 99f17ec0b7ac59978c6ea893a7dc52f2 GasterBlaster.pvp
+8fccac4011dc915624363b40545de131 Gdex.com.isabelle.card.PVP
 5076bab014a629146899362edd128122 Geddon1.pvp
 5e10518b65bacc4ea31532f61e2f51ce Geddon1v2.pvp
 02e232be41efcb72e52d353370293542 Geddon3.pvp
@@ -265,11 +283,15 @@ d9bbeb394b09cfdf50e2cbeb8990ab67 GrassLne.pvp
 f4f5bfda87784603cfab82a97f5cbbd3 Guard1.Guard1
 b1f74af13e14bfe833979ac99e16ed9c Guard2.Guard2
 89f7d1e1901e8df33470b2cd43791ce9 Guard3.Guard3
+7e2fc2b5ba32e18be7cbbc367ff6a81c GunDelHel.Rune.chip.PVP
+c1d1ded66b19924ca18ad521574660aa Gunds1.com.isabelle.chip.PVP
+d4b4fcddff5a6a97dfc40126c754f735 Gunds2.com.isabelle.chip.PVP
+d4db1d05a797a5b87b746913cbe4ca73 Gunds3com.isabelle.chip.PVP
 4dfe854edb5e943aa320f4ed1d3f6012 Hawkcut1.pvp
 803e50c00515a039133e3a8805ef380d Hawkcut2.pvp
 149ad7795a1fc2b97ee7a0060b0c00fe Hawkcut3.pvp
 f1c26fab45badf657bac2b08637cc457 Headbang.pvp
-19c66bc5d7e8721bd8797557d5f85b3f HealBarrier.pvp
+2de515ff09881dc54224b3323735194d HealBarrier.pvp
 2ad4040e971188f1d0f9ff78cf56a619 Heat-v.pvp
 f13c66bb6d48310d252fefdb17a6241f Heatcross.pvp
 f63b02631c4581630a537b2aeb5ed559 Heatshot.pvp
@@ -278,6 +300,7 @@ bc4d1589d84f8c59d69476ab75d115e2 Heatsprd.pvp
 aea7af5a09de3d1b18dca930c73d193a HeroSword.pvp
 e06e560c44e1078409346524048eb407 HiCannon.pvp
 799f81a75dbb240c7c4eac53f74b68e6 Highroad.pvp
+508c7b043cf6eba3baaabbdd5baf9bf4 HolySeed.pvp
 cc0c80e7ae728acb643a446e11461a95 Holypanl.pvp
 493c451f94e12054896d186fc4cfff1f Howitzer.pvp
 e26d3db19b945538d7a76c35571dcd41 Hubbatch.pvp
@@ -296,7 +319,7 @@ f8dbd523605f019cb548830c0cfbfa66 KnightSword.pvp
 b55dec6ae223806e946fa56bfcbbf388 LavaLine.pvp
 bcebb0d34a1c57533133588df19514c8 LavaSeed.pvp
 06948fd0c7d7455468ce6981a3829431 Lavaball
-154466b43ada4b91f78afa495cb3c7ec Lifeaur3.pvp
+e326b2d4aa8c0dd35e76c1672dcedcd3 Lifeaur3.pvp
 9d1894df625cfc0b93dcd0e6e28e11a8 Lightning1.pvp
 c6985b6426578cefa657c8d414c54928 Lightwisp.pvp
 ba83e0b4e4dff01f1d70c41442c739d9 Ligtnin1.pvp
@@ -327,6 +350,10 @@ af5fdbe23445c41c65798d1dac58c359 PAIN.Cube.pvp
 7b382b56aaa36f0c4b742dcafe696d6a PnlRetrn.pvp
 d83dab11fe33e8e61ab12a93ffc75151 PoisSeed.pvp
 5d895784275d3d0987ee4ec884415a5a PoisnArea.pvp
+5352db2c66813298c4b336bea78dbe44 PushBack.com.Rework.A.Chip562.PVP
+37cfede1f1c2f555f842ea4ae389b6ef Ratton1.rune.legacy.PVP
+21dbca8ca23c6c58552b03ed78d150bf Ratton2.rune.legacy.PVP
+4d8f1c2e7ecc8650c69ec8f070db33da Ratton3.rune.legacy.PVP
 5a37ce8cd789682ad1c8ccf60d8fb7bc Ravager.Formortiis.pvp
 225702a32e4c8b973b80327cc62110b5 Recov10.pvp
 b1f741a246dff2bb5254bdc1862e593e Recov2.pvp
@@ -340,6 +367,8 @@ e5b54c1189761916d1015344acabba51 Recov8.pvp
 739ae194bdef32a1357e13ffec1d0bd3 Recovdark.pvp
 232d199b371db2d514de5bd0ed6be387 Return.Return
 9bd31cff14afc675dd4cdad513c61f5c RockCube.pvp
+7c34677da98857fbe9815e5e64127331 STANDING_HERE
+48c5fd4f5036bb6339449005f83f1fe8 Samurai.com.Rework.X.Chip08.PVP
 e487335e2bd92c29a44d4e1ecd7613c6 Shotgun1.pvp
 8cb754db3fbb94aa43b17db620b49c81 Sidegun.pvp
 11a8bd7d1886452eafc8b0f0c12e9824 Slasher.pvp
@@ -365,6 +394,7 @@ f6509aef27be0920e73f15f01b51275d SwapElec.pvp
 d86333403e54af5575cb866c699a1d57 SwapFire.pvp
 d1e8937a800ac88d72ef3da6e51ee0c5 SwapWood.pvp
 42e4b47ff031b283945fadae463b6abb Sword.pvp
+07de62bb0515b70365f5b499520be7a3 Swordsmn.com.Rework.X.Chip07.PVP
 874130937e9bfe8fc5c9c7fe7732d682 Synchrochip.pvp
 7016c4dc4ed374888b498ed41ad9ed81 TactCov.pvp
 5c5a87cf01a8bb0b38275b75be714040 Thunder2_BN4.MarsFix.pvp
@@ -376,6 +406,7 @@ df06539963b0f63e24cf9404d99e21dd Tornado.pvp
 c511d8be8fdc8ae8023cc42fbea8c31c Twister
 e671c9b30b864d8a089ee770ad03cd0b Typhoon
 99fc69097afb2346b9504df3abe03221 Undersht.pvp
+38e1db19f04b017d65aa1f2fdf923df7 Uninstll.rune.legacy.PVP
 6274aa63cfe0f13bf40c7ff1d43845d5 V-Gun.pvp
 bc9c926a987cc139c756d4a19a84f54d VarSword.pvp
 c9cdf0da4774f33350925311d8782547 VarSwordNeo.pvp
@@ -400,3 +431,27 @@ e1db9000318669f910a621888bdb5633 Zapring2.pvp
 7c39bed0ac0ca8862715e33711e5ea78 Zapring3.pvp
 b2a0dd7871b0711f998cd005f378d07e Zephyr.pvp
 9d50bc95d82fe177b136723a24fa959e Zsaber.pvp
+5f7d2c819b4feca3d69e7134da9e3473 rune.legacy.dolthdr1
+
+...................................class MobPackageManager...................................
+9b030e48f278f38faa5da78b212c3662 com.Dawn.BN3.Ratty
+b242fbb9ec6d36ad1341e55b186fe909 com.Dawn.DarkRock
+36f553c7a2018cdca7a7d7e58f52b279 com.Dawn.DarkRockNM
+260fbbf449900062637c3591038460b7 com.Dawn.Shademan
+a1f20f253df956e2e0763a0fc1b3b775 com.Dawn.ShademanAlpha
+e7aaddcdb1c22743ae8bf71091cd331c com.Dawn.ShademanBeta
+701b39010b22d6969eef10cf594bd31a com.Dawn.mob.Spikey
+83f81a18d74ce59509f23b2db58f9ffb com.DawnAdjusted.FiremanBN1
+b276c02f1aeb597dea2d22792c73e2c2 com.DawnAdjusted.FiremanHard
+c6953cb5d372ecc644453aa62981dadc com.DawnAdjusted.FiremanNightmare
+8e45b8eb3136ccc1efd3237b2864f2a7 com.DawnIPC.Blues
+a99bc8b13b73437976ceff3260f6a9d3 com.DawnIPC.DarkBlues
+ea6aca3b799fc2f3dfb2c67b701f8385 com.Thor.BlastMan_1
+e3a54bf9dff964bc3d89f6d48b21bada com.Thor.BlastMan_2
+4689a91927c6c40d4be50ec6b6dc06ba com.Thor.BlastMan_3
+0ebd64e68b205c0ca9c233b19af6634e com.Thor.BlastMan_4
+071cef863e00051f965634c63438db33 com.Thor.Gutsman_V1
+e81c4f0c02b2252fcc4abf6e9d79573c com.Thor.Gutsman_V2
+16356fb0c0648e61c98a23954b98cf50 com.Thor.Gutsman_V3
+3188fe0d2fa67b602e36183b2028edf4 com.Thor.Gutsman_V4
+f65794be1b5441b476890328bebf47ea com.keristero.mob.BigBrute
