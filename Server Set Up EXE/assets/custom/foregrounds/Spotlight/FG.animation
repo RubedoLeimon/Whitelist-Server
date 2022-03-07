@@ -1,4 +1,4 @@
-imagePath="C:/Users/Clevettes/Desktop/Backrooms/FG.png"
+imagePath="C:\Users\Clevettes\Desktop\Backrooms\FG.png"
 
 animation state="BG"
-frame duration="0.05" x="0" y="0" w="480" h="320" originx="0" originy="0" flipx="0" flipy="0" 
+frame duration="0.05" x="0" y="0" w="240" h="160" originx="0" originy="0" flipx="0" flipy="0" 
