@@ -446,7 +446,7 @@ Beware the Dark Power...</property>
     <property name="Unlock Item" value="DevKey"/>
    </properties>
   </object>
-  <object id="124" name="DevKey(HideAfterRuneGetsOne)" type="Mystery Data" gid="58" x="336" y="48" width="14" height="43" visible="0">
+  <object id="124" name="DevKey(HideAfterRuneGetsOne)" type="Mystery Data" gid="58" x="272" y="16" width="14" height="43" visible="0">
    <properties>
     <property name="Description" value="A key that proves you are a dev of this server"/>
     <property name="Name" value="DevKey"/>
