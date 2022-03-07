@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.0" orientation="isometric" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="5">
+ <tileset firstgid="1" source="../assets/tiles/pvpfloor.tsx"/>
+ <tileset firstgid="4" source="../assets/tiles/Arrows.tsx"/>
+ <tileset firstgid="8" source="../assets/tiles/floor.tsx"/>
+ <tileset firstgid="11" source="../assets/tiles/fl00r.tsx"/>
+ <tileset firstgid="14" source="../assets/tiles/Phantom Forest BBS.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="20" height="20">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,8,8,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="2" gid="5" x="344" y="568" width="69" height="44"/>
+  <object id="3" type="Radius Warp" x="336" y="544">
+   <properties>
+    <property name="Activation Radius" type="float" value="0.6"/>
+    <property name="Arrival Animation" value="arrow_down_left_in"/>
+    <property name="Leave Animation" value="arrow_down_left_out"/>
+    <property name="Target Area" value="default"/>
+    <property name="Target Object" value="126"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="4" type="Board" gid="14" x="104" y="216" width="38" height="70">
+   <properties>
+    <property name="BBS" type="bool" value="true"/>
+    <property name="Color" type="color" value="#ffa12d2d"/>
+    <property name="Name" value="DevRoomBBS"/>
+    <property name="Post Limit" type="int" value="999"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
