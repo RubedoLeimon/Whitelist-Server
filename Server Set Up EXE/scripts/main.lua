@@ -108,7 +108,7 @@ function handle_player_avatar_change(player_id, details)
 end
 
 function handle_player_join(player_id)
-    Net.set_mod_whitelist_for_player(player,"/server/assets/Whitelist.txt")
+    Net.set_mod_whitelist_for_player(player_id,"/server/assets/Whitelist.txt")
     for i,plugin in ipairs(plugins)do
         if plugin.handle_player_join then
             plugin.handle_player_join(player_id)
@@ -119,6 +119,10 @@ function handle_player_join(player_id)
         Net.provide_asset_for_player(player_id, path)
     end
 end
+
+     
+         
+
 
 function handle_actor_interaction(player_id, actor_id, button)
     for i,plugin in ipairs(plugins)do
