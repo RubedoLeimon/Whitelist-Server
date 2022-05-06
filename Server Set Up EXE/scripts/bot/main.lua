@@ -84,6 +84,7 @@ end
 
 function handle_player_transfer(player_id)
   bot._handle_player_disconnect(player_id)
+  Net.set_mod_whitelist_for_player(player_id,'/server/assets/Whitelist.txt')
 end
 
 
